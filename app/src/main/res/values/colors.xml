@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <!-- Default theme colors -->
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#eef0f1</color>
+    <color name="colorAccent">#3d76cc</color>
+    <color name="primaryText">#333333</color>
+    <color name="buttonTextColor">#3d76cc</color>
+    <color name="buttonTextInverseColor">#ffffff</color>
+    <color name="buttonDisabled">#e0e0e0</color>
+    <color name="buttonNormal">#3d76cc</color>
+    <color name="buttonHighlight">#0051cc</color>
+    <!-- Mint theme colors -->
+    <color name="mintColorPrimary">#76be2f</color>
+    <color name="mintColorPrimaryDark">#289b23</color>
+    <color name="mintColorAccent">#f9a825</color>
+    <color name="mintPrimaryText">#424242</color>
+    <color name="mintButtonTextColor">#76be2f</color>
+    <color name="mintButtonTextInverseColor">#ffffff</color>
+    <color name="mintButtonDisabled">#e0e0e0</color>
+    <color name="mintButtonNormal">#76be2f</color>
+    <color name="mintButtonHighlight">#81c784</color>
+
 </resources>
