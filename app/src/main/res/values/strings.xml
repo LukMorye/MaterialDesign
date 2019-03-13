@@ -4,4 +4,8 @@
     <string name="bordered_button">Bordered button</string>
     <string name="filled_button">Filled button</string>
     <string name="shadow_button">Shadow button</string>
+    <string name="accept">Accept</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Your name</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
 </resources>

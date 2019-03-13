@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Default theme colors -->
-    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimary">#333333</color>
     <color name="colorPrimaryDark">#eef0f1</color>
     <color name="colorAccent">#3d76cc</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorHint">#dedede</color>
     <color name="primaryText">#333333</color>
     <color name="buttonTextColor">#3d76cc</color>
     <color name="buttonTextInverseColor">#ffffff</color>
@@ -14,6 +16,8 @@
     <color name="mintColorPrimary">#76be2f</color>
     <color name="mintColorPrimaryDark">#289b23</color>
     <color name="mintColorAccent">#f9a825</color>
+    <color name="mintColorBackground">#ffffff</color>
+    <color name="mintColorHint">#dedede</color>
     <color name="mintPrimaryText">#424242</color>
     <color name="mintButtonTextColor">#76be2f</color>
     <color name="mintButtonTextInverseColor">#ffffff</color>
